@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/redhat-developer/odo/pkg/odo/events"
+	"github.com/metacosm/odo-event-api/odo/api/events"
 )
 
 type tracer struct{}
